@@ -126,6 +126,26 @@ function Services() {
             </li>
           </ul>
         </article>
+        <article className="service">
+          <div className="service_head">
+            <h3>Food App</h3>
+            <h5 color="text-light">Technology Used - HTML, CSS, JavaScript</h5>
+          </div>
+          <ul className="service_list">
+            <li>
+              <p>Integrating Swiggy API to fetch and display restaurant.</p>
+            </li>
+            <li>
+              <p>Displaying restaurant of specific location, While also implementing a separate API to show case the menus of selected restaurants.</p>
+            </li>
+            <li>
+              <p></p>
+            </li>
+            <li>
+              <p>Link - <a href="https://tic-tac-toe-manik-1stgame.vercel.app/" target="_blank">Food App</a></p>
+            </li>
+          </ul>
+        </article>
       </div>
     </section>
   );
