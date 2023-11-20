@@ -32,13 +32,12 @@ function Contact() {
           <article className="contact_option">
             <MdOutlineEmail className="contact_option-icon" />
             <h4>Email</h4>
-            <h6>maniknaidu0808@gmail.com</h6>
+            <h6>tmaniknaidu0808@gmail.com</h6>
             <a href="mailto:dummy@gmail.com">Send a Message</a>
           </article>
           <article className="contact_option">
             <AiOutlineLinkedin className="contact_option-icon" />
             <h4>Linkedln</h4>
-            {/* <h5>dummy@gmail.com</h5> */}
             <a href="https://www.linkedin.com/in/manik-naidu-6078b1162/" target="_blank" rel="noopener noreferrer">
               Connect with Me
             </a>
@@ -46,7 +45,6 @@ function Contact() {
           <article className="contact_option">
             <BsWhatsapp className="contact_option-icon" />
             <h4>Whatsapp</h4>
-            {/* <h5>+91 8962663656</h5> */}
             <a href="http://wa.me/+917587475095">Ping me</a>
           </article>
         </div>
